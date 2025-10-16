@@ -1,6 +1,6 @@
 ## 2Books
 这是一个用于校内二手书信息交流的网站  
-Created by Helio
+Created by Driftcell
 
 ## Getting Started
 
